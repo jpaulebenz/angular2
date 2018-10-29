@@ -9,7 +9,7 @@ It's been extended with testing support so you can start writing tests immediate
 **This is not the perfect arrangement for your application. It is not designed for production.
 It exists primarily to get you started quickly with learning and prototyping in Angular**
 
-We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
+We are unlikely to accept suggestions about how grow this QuickStart into something it is not.
 Please keep that in mind before posting issues and PRs.
 
 ## Updating to a newer version of the Quickstart Repo
